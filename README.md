@@ -1,1 +1,3 @@
-## Covid 19 DataSet
+## COVID-19 DataSet
+
+This data has been downloaded from Kaggle
